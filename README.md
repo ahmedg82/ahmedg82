@@ -6,9 +6,10 @@ I turn business data into clear decisions, practical dashboards, and measurable 
 
 Based in Saudi Arabia | Jazeera Paints | BI, sales analytics, and data storytelling
 
+**Mobile:** 0591807445
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Gomaa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gomaa-2a105936/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20my%20site-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ahmedg82.github.io/github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmedg82-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedg82)
 
 ---
 
@@ -37,9 +38,3 @@ Based in Saudi Arabia | Jazeera Paints | BI, sales analytics, and data storytell
 > Clear questions -> trusted data -> useful metrics -> decisions that move the business.
 
 I care about analytical accuracy, thoughtful visual design, and making every dashboard useful to the people who rely on it.
-
----
-
-### Let's connect
-
-If you are working on BI, sales analytics, dashboard design, or data storytelling, I would be glad to connect.
